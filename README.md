@@ -2,6 +2,9 @@
 
 In this end-to-end project, I developed a **Retrieval-Augmented Generation (RAG)** application using **ObjectBox Vector Database** and **LangChain**. The solution enhances the capabilities of large language models by retrieving relevant information from a custom knowledge base, enabling the AI to generate more accurate, context-aware, and up-to-date responses. By leveraging ObjectBox's on-device vector database, the application ensures efficient semantic search and retrieval while keeping all data local, preserving privacy and eliminating the need to send sensitive information to external servers.
 
+<img width="1698" height="977" alt="image" src="https://github.com/user-attachments/assets/a74440d8-d5f8-465f-9cd3-a6c32ce89f8f" />
+
+
 
 ## Description
 
